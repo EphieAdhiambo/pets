@@ -6,7 +6,7 @@ h1 {
   color:black;
   text-align: center;
   font-family:'Times New Roman', Times, serif;
-  font-size:xx-large;
+  font-size: xx-large 10%;
 }
 img{
     display: block;
@@ -27,13 +27,13 @@ img{
  } 
 p {
   font-family: 'Courgette', cursive;
-  font-size: xx-large
+  font-size: x-large
   
 }
 
 h2 {
   font-family: 'Times New Roman', Times, serif;
-  font-size:xx-large
+  font-size:x-large
 
   
 }
