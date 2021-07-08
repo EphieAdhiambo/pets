@@ -20,8 +20,12 @@ The purpose of the project is to help me improve and enhance my skills on creati
 
 -When done,commit the changes and push them to the remote repo.
 
+## License
+
 Licensed by
+
 MIT License
+
 Copyright (c) [2021] [Ephie Adhiambo]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
